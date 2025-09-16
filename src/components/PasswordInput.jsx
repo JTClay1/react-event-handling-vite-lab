@@ -1,6 +1,6 @@
 function PasswordInput() {   // Define the PasswordInput component as a function
   function handleChange() { 
-    console.log("Entering password…");
+    console.log("Entering password...");
   } // Defines a function that logs a message whenever the input changes
 
   return (
